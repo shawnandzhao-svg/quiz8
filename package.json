@@ -1,0 +1,29 @@
+{
+  "name": "quiz8",
+  "version": "1.0.0",
+  "description": "CI/CD Intern Lab - Node.js Express App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnandzhao-svg/quiz8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shawnandzhao-svg/quiz8/issues"
+  },
+  "homepage": "https://github.com/shawnandzhao-svg/quiz8#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
